@@ -1,7 +1,8 @@
 """Guide pour analyse de données d'un TP."""
 
 __author__ = "Armand PIERRE"
-__licence__ = "CC BY-NC-SA"
+__copyright__ = "Copyright 2023, Armand PIERRE"
+__licence__ = "Gnu GPL"
 
 import inspect
 import matplotlib.pyplot as plt
@@ -56,7 +57,7 @@ texte_func = "y = f(x)" # Ecrivez la formule de func (facultatif)
 
 # Si vous voulez changez le style... Renseignez sur les styles de graphiques Matplotlib !
 # Première lettre = couleur
-# Deuxième (faucltative): forme
+# Deuxième (facultative): forme
 style_points = "bo"
 style_courbe = "r"
 
